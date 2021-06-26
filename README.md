@@ -45,7 +45,6 @@
 <img align="left" alt="firebase" width="35px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img align="left" alt="mysql" width="35px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" />
 <img align="left" alt="airtable" width="35px" src="https://www.vectorlogo.zone/logos/airtable/airtable-icon.svg" />
-<img align="left" alt="sequelize orm" width="35px" src="https://cdn.worldvectorlogo.com/logos/sequelize.svg" />
 <img align="left" alt="Apollo" width="35px" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg" />
 <img align="left" alt="auth0" width="35px" src="https://www.vectorlogo.zone/logos/auth0/auth0-icon.svg" />
 <img align="left" alt="heroku" width="35px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" />

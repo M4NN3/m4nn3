@@ -56,15 +56,6 @@
 <br />
 <hr />
 
-### Stats
-<a href="#stats">
-<img align="center" alt="Manne's Github Stats" src="https://gh-readme-stats-jr2zafif6.vercel.app/api?username=m4nn3&show_icons=true&count_private=true&theme=tokyonight" />
-</a>
-  
-<a href="#stats">
-<img align="center" alt="Manne's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=m4nn3&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
-
 [twitter]: https://twitter.com/elprogramadorxd
 [Instagram]: http://instagram.com/neumannerod
 [Facebook]: https://www.facebook.com/manne.rodriguez.3/
